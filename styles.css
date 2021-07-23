@@ -3,3 +3,8 @@
 h1{
 	font-family: "Ubuntu";
 }
+a {
+	text-decoration: none;
+	color: black;
+	font-family: "Ubuntu";
+}
